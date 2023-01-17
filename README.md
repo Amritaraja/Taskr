@@ -10,6 +10,9 @@ Calendar application that lets you save events for each hours of the day 9am-5pm
 -Added time blocks in the html that displays a corresponding color depending on the time of day (past, present, future).
 -Created a save button that saves an event to the local storage. 
 
+BONUS
+- Created a clear button to easily clear the local storage that will reset tasks. This is much easier than erasing one block at a time and saving each them indivdually.
+
 
 ## Why is this useful?
 This is a great way to challenge your knowledge on Javascript methods and functions.
